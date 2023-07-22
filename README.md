@@ -1,0 +1,2 @@
+# RPGgame_TheAdvantureOfSamsara
+這是一款關於不斷輪迴的冒險
